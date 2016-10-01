@@ -1,4 +1,4 @@
-package io.erikdreyer.api;
+package io.erikdreyer.web.config;
 
 public class ErrorMessage {
   private String message;
