@@ -1,4 +1,4 @@
-package react
+package io.erikdreyer
 
 import org.springframework.boot.test.SpringApplicationContextLoader
 import org.springframework.session.MapSessionRepository

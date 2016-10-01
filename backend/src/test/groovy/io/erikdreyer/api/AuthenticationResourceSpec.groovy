@@ -1,7 +1,7 @@
-package react.api
+package io.erikdreyer.api
 
 import org.springframework.http.HttpStatus
-import react.AbstractMvcSpec
+import io.erikdreyer.AbstractMvcSpec
 import spock.lang.Shared
 import spock.lang.Stepwise
 import spockmvc.RequestParams

@@ -1,4 +1,4 @@
-package react.api;
+package io.erikdreyer.api;
 
 public class ErrorMessage {
   private String message;

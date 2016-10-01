@@ -1,4 +1,4 @@
-package react.config;
+package io.erikdreyer.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.ClassPathResource;

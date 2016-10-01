@@ -1,4 +1,4 @@
-package react.model;
+package io.erikdreyer.domain.model;
 
 import java.io.Serializable;
 

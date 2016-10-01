@@ -1,4 +1,4 @@
-package react.model;
+package io.erikdreyer.domain.model;
 
 public class Credentials {
   private String username;

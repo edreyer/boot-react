@@ -1,4 +1,4 @@
-package react.api;
+package io.erikdreyer.web.controllers;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 @RestController
-public class SimpleResource {
+public class SimpleController {
 
   @RequestMapping("/api/simple")
   public List<String> resource() {

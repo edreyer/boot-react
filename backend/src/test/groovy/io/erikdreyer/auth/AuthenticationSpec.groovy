@@ -1,8 +1,8 @@
-package react.auth
+package io.erikdreyer.auth
 
 import org.springframework.http.HttpStatus
 import org.springframework.security.test.context.support.WithMockUser
-import react.AbstractMvcSpec
+import io.erikdreyer.AbstractMvcSpec
 
 class AuthenticationSpec extends AbstractMvcSpec {
 
